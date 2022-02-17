@@ -1,0 +1,19 @@
+reads in three numbers and writes them all in sorted order
+
+// Receive 3 number inputs (x, y, z)
+// IF CONDITIONS STATEMENTS
+    // IF (x > y and x > z) THEN
+        // IF (y > z) THEN
+            // PRINT (z, y ,x) # from the smallest to the largest.
+        // ELSE
+            // PRINT (y, z ,x)
+    // ELSE IF (y > x and y > z) THEN
+        // IF (x > z) THEN
+            // PRINT (z, x ,y)
+        // ELSE IF
+            // PRINT (x, z ,y)
+    // ELSE
+        // IF (x > y) THEN
+            // PRINT (y, x ,z)
+        // ELSE IF
+            // PRINT (x, y ,z)
