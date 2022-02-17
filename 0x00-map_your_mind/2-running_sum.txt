@@ -9,7 +9,7 @@ A user will enter numbers that will be added to the sum and when a negative numb
 # WHILE LOOP
     // SET counter
         //let x=0,
-    // WHILE counter is still true ( x <= 'number_of_numbers_stored' ) THEN
+    // WHILE counter is still true ( x <= 'number_of_numbers_stored' x++) THEN
         // FOR (a the next positive number in array) THEN
             // DO the summation
 // DISPLAY (RESULT)
