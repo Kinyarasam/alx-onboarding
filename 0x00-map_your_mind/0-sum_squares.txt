@@ -1,0 +1,15 @@
+calculate the sum of squares of given input of numbers
+
+// Receive atleast two inputs from user
+// Store the numbers in array
+# Check the number of input numbers
+// if input numbers >= 2 THEN
+// DO
+    // square the n numbers input by the user
+// ELSE  IF input numbers >= 1
+    // square the number.
+// ELSE
+    // PRINT input is required
+
+// add the sum of the squares.
+// DISPLAY(results)
